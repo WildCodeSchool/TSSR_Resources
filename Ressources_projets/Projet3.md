@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Le but du projet 3 est de mettre en pratique toutes les connaissances étudiées la formation.
+Le but du projet 3 est de mettre en pratique toutes les connaissances étudiées pendant la formation.
 Tu es dans la peau d'un·e technicien·ne Systèmes et Réseaux nouvellement recruté·e dans une société fictive, et qui intégre une nouvelle équipe SI.
 
 ## 1. Le contexte
