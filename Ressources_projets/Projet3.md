@@ -31,23 +31,23 @@ Il sera découpé en 9 phases, chacune durant 1 mois.
 
 ### Les utilisateurs
 
-La société est actuellement composée de 85 personnes. L'ensemble du personnel touche au SI.
+La société est actuellement composée de 91 personnes. L'ensemble du personnel touche au SI.
 
 Voici les différents services concernés:
-* Comptabilité
+* Direction générale (3 personnes)
 * Finance (5 personnes)
 * Comptabilité (3 personnes)
-* Direction générale (3 personnes)
 * Direction commerciale (30 personnes dont 25 commerciaux nomades)
 * Marketing (15 personnes)
 * Communication (8 personnes)
 * Stratégie (5 personnes)
 * RH (10 personnes)
 * Logistique (6 personnes)
+* Service informatique (6 personnes)
 
-A cela s'ajoute environ une dizaine de prestataires qui viennent dans les locaux et qui interviennent sur le SI.
+A cela s'ajoute environ une dizaine de prestataires qui interviennent sur le SI dans les locaux et à distance.
 
-### Etat du réseau
+### Le réseau
 
 * Le réseaux est fourni par 1 box classique fournie par un FAI qui n'alimente en wifi qu'une partie des locaux (environ 30 %)
 * Environ 50% des utilisateurs ont accès au réseau d'entreprise, les autres utilisent leur connexion personnelle.
@@ -56,48 +56,48 @@ A cela s'ajoute environ une dizaine de prestataires qui viennent dans les locaux
 * Il n'y a pas de serveur, pas de redondance matériel ni réseau
 * Les PC portable sont en wifi, mais le signal est très mauvais
 
-### Etat du stockage
+### Le stockage des données
 * Le stockage est actuellement partagé entre les PC des collaborateurs et du cloud privé.
 * En cas de départ d'un collaborateur, il y a perte des données
 * En cas de problème technique sur un suport matériel de type ordinateur ou sur un support amovible, il y a perte des données.
 * Un drive est mis en place pour les données centralisées
 
-### Etat des sauvegardes
+### Les sauvegardes
 
 * Il n'y a aucune sauvegarde de données
 
-### Etat de la messagerie
+### La messagerie
 
 * La messagerie est hebergée chez un prestataire.
 * Le taux de satisfaction envers ce prestataire est plutôt mauvais
 
-### Etat de la téléphonie
+### La téléphonie
 
 * Environ 40% des utilisateurs ont de la téléphonie fixe.
 * Tous les utilisateurs utilise leurs mobiles personnels.
 * Le taux de satisfaction envers la téléphonie est plutôt bon
 
-### Au niveau de la maintenance
+### La maintenance
 
 * Il n'y a pas de système de ticketing dans l'ensemble de la société
 * Les utilisateurs appellent un prestataire qui se doit de résoudre contractuellement le problème sous 48h.
 * Les utilisateurs sont clairement mécontent de ce service
 
-### Le serveur web d'entreprise
+### Le site web d'entreprise
 
 * Ce service est dévolu à un prestataire
 
-### Mobilité
+### La mobilité
 
 * Les utilisateurs en déplacement n'ont pas d'accès au SI
 * Les utilisateurs en télétravail n'ont pas de VPN pour acceder à leurs données d'entreprise
 
-### Gestion des licences
+### La gestion des licences
 
 * Il n'y a pas de licences en volume
 * Toutes les licences sont OEM
 
-### Impression
+### L'édition
 
 * 2 copieurs sont en location
 
