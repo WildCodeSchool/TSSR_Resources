@@ -2,14 +2,14 @@
 
 ##  Installation, configuration, mode opératoire
 
-### Objectifs
+### 1. Objectifs
 
 * Installer et configurer un logiciel
 * Faire une présentation de projet en groupe
 * Créer un mode opératoire
 * Faire une démonstration de la réalisation finale
 
-### Sujets
+### 2. Sujets
 
 Vous devez choisir un sujet parmi les logiciels suivants :
 
@@ -20,7 +20,7 @@ Vous devez choisir un sujet parmi les logiciels suivants :
 
 > Les groupes devront avoir un sujet différent.
 
-### Présentation orale
+### 3. Présentation orale
 
 Pour chacun des sujets :
 
@@ -42,13 +42,13 @@ Pour chacun des sujets :
 
 > Quelques conseils pour une présentation orale réussi [ici](https://www.superprof.fr/blog/conseils-pour-reussir-sa-presentation-orale/) et [là](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2008/donnees/pdf/108_tairraz.pdf)
 
-### Mode opératoire
+### 4. Mode opératoire à fournir
 
 Le mode opératoire devra être fourni en **format markdown** et **pdf** en fin de semaine 2.
 
 > Qu'est-ce qu'un mode opératoire ? Quelques réponses [ici](https://www.techsmith.fr/blog/processus-procedure-mode-operatoire/)
 
-### Groupes de projet
+### 5. Groupes de projet
 
 Vous serez réparti par groupe de la manière suivante :
 
@@ -59,7 +59,7 @@ Vous serez réparti par groupe de la manière suivante :
 | Nessim     | Joanie     |              | Scrum master  |
 | Rayan      | Fergane    |              | Product Owner |
 
-### Quelques rappels agile
+### 6. Quelques rappels agile
 
 ***Scrum master*** :
 ![image](https://www.tuleap.org/wp-content/uploads/2020/04/bon-scrum-master-fr-tuleap-1024x427.png)
