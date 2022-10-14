@@ -26,9 +26,12 @@ Les ordinateurs seront installés sur un réseau virtuel sous un hyperviseur de 
 La machine cliente aura une configuration IP dynamique.
 Le réseau sera en **/24**.
 
-#### 2.2 Les services
+> Le choix de l'hyperviseur doit permettre à tous les membre d'un groupe de pouvoir travailler avec la même technologie.
 
-Voici les services qui devront être mis en place à partir du serveur :
+#### 2.2 Fonctionnalités proposées
+
+Un script devra être accessible et executable sur le serveur par un compte ayant des privilèges élevés.
+Ce script, codé en Bash ou en PowerShell, affichera un menu de choix de fonctionnalités :
 
 * Actions vers le client :
   * Verrouillage/Arrêt/Redémarrage machine
@@ -46,8 +49,8 @@ Voici les services qui devront être mis en place à partir du serveur :
 * Sécurité :
   * Les accès au poste client seront sécurisé
   * Les accès en téléassistance seront sécurisé
-  
-Ces services devront être accessible via **un menu** lancé à partir d'un script codé dans le langage de votre choix.
+
+> Vous n'êtes pas obligé de garder cette structure de menu. Par contre, toutes les fonctionnalités évoquées doivent être présente.
 
 ### 3. Présentation orale
 
@@ -96,6 +99,8 @@ Pour le groupe 2 :
 
 ### 6. Critères de validation de projet
 
-Architecture et communication client-serveur fonctionnelle.
-Tous les services demandés ainsi que la sécurité sont operationnel.
-Un mode opératoire ainsi que les sources associées sont mis à disposition.
+1. Architecture et communication client-serveur fonctionnelle.
+2. Toutes les fonctionnalités demandées sont présente et fonctionnelles
+3. La sécurité est présente, que cela soit au niveau des accès (client ou serveur) ou bien dans la communication client-serveur.
+4. Un mode opératoire ainsi que les sources associées sont mis à disposition.
+
