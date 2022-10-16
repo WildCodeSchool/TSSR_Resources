@@ -33,20 +33,20 @@ Le réseau sera en **/24**.
 Un script devra être accessible et executable sur le serveur par un compte ayant des privilèges élevés.
 Ce script, codé en Bash ou en PowerShell, affichera un menu de choix de fonctionnalités :
 
-* Actions vers le client :
+* **Actions vers le client** :
   * Verrouillage/Arrêt/Redémarrage machine
   * Création/Modification/Suppression de répertoire
   * Création/Suppression/Modification/Désactivation de compte
-* Teleassistance
+* **Teleassistance** :
   * Du serveur vers le client
   * Du client vers le serveur
-* Récupération d'informations (qui seront stockées sur le serveur dans un fichier) :
+* **Récupération d'informations** (qui seront stockées sur le serveur dans un fichier) :
   * Version OS client
   * Espace disque Total/Restant
   * Liste des lecteurs
   * Adresse IP/Masque/Passerelle/MAC
   * Liste des utilisateurs locaux
-* Sécurité :
+* **Sécurité** :
   * Les accès au poste client seront sécurisé
   * Les accès en téléassistance seront sécurisé
 
@@ -56,7 +56,7 @@ Ce script, codé en Bash ou en PowerShell, affichera un menu de choix de fonctio
 
 Toutes les semaines :
 
-* Durée : 30 min (20 min de presentation et 10 min de questions)
+* Durée : 15 min
 * Bilan des objectifs de la semaine
   * Bilan de groupe et individuel
 * Avancement du projet
@@ -68,7 +68,7 @@ Toutes les semaines :
 
 Le mode opératoire devra être fourni en **format markdown** et **pdf** à la fin du projet.
 Une ebauche de ce MO devra être fourni toute les semaines.
-L'ensemble de l'architecture doit être fournie sous format exportable (par exemple ova) à la fin du projet.
+L'ensemble de l'architecture doit être fournie sous format exportable (par exemple **ova**) à la fin du projet.
 
 ### 5. Groupes de projet
 
@@ -103,4 +103,3 @@ Pour le groupe 2 :
 2. Toutes les fonctionnalités demandées sont présente et fonctionnelles
 3. La sécurité est présente, que cela soit au niveau des accès (client ou serveur) ou bien dans la communication client-serveur.
 4. Un mode opératoire ainsi que les sources associées sont mis à disposition.
-
