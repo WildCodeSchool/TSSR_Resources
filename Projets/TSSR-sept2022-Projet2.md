@@ -1,6 +1,6 @@
 # TSSR septembre 2022 - PROJET 2
 
-##  Création d'un architecture client-serveur
+##  Création d'une architecture client-serveur
 
 ### 1. Objectifs
 
