@@ -9,51 +9,51 @@ Il est découpé en sprint de 4 semaines (1 semaine de cours et 3 semaines d'alt
 
 ***Contexte :***
 
-Tu es un·e technicien·ne Systèmes et Réseaux nouvellement recruté·e et qui intégre la nouvelle équipe SI d'une société dont ton formateur est le Directeur du Système d'Information (DSI).
+Tu es un·e technicien·ne Systèmes et Réseaux nouvellement recruté·e et qui intègre la nouvelle équipe SI d'une société dont ton formateur est le Directeur du Système d'Information (DSI).
 
 ## **2. Le contexte professionnel**
 
 |   | Sujet 1 - Ekoloclast | Sujet 2 - BillU |
 | ---   |  --- | --   |
-|   La société  |  La société **Ekoloclast**, est une start-up récente. Son fondateur l'a crée il y a moins de 2 ans. Sa création part d'un constat ecologique peu reluisant. A travers cette société, il souhaite apporter une vision nouvelle sur l'ecologie par des actions, des produits, et des methodes innovantes pour aider l'environnement au travers des personnes. Elle fait du B2B et du B2C en vente et en prestations de conseils. Une levée de fond vient d'être éffectué pour pouvoir se développer.  |  La société **BillU** vient d'être acquise par le groupe RemindMe. Ce dernier, propose des services aux entreprises, et emploi plus de 2000 personnes dans le monde, répartit dans une dizaine de pays. BillU est spécialisée dans le développement de logiciels de facturation avec des clients B2B. Son expertise et ses compétences pouront être mis en place dans des services proposés par RemindMe. La société mère a prévu un budget pour développer le potentiel de cette nouvelle entreprise du groupe. |
-| Type de société | Start-up | Filliale d'entreprise internationnale |
+|   La société  |  La société **Ekoloclast**, est une start-up récente. Son fondateur l'a créé il y a moins de 2 ans. Sa création part d'un constat écologique peu reluisant. A travers cette société, il souhaite apporter une vision nouvelle sur l'écologie par des actions, des produits, et des méthodes innovantes pour aider l'environnement au travers des personnes. Elle fait du B2B et du B2C en vente et en prestations de conseils. Une levée de fond vient d'être effectué pour pouvoir se développer.  |  La société **BillU** vient d'être acquise par le groupe RemindMe. Ce dernier, propose des services aux entreprises, et emploi plus de 2000 personnes dans le monde, répartit dans une dizaine de pays. BillU est spécialisée dans le développement de logiciels de facturation avec des clients B2B. Son expertise et ses compétences pourront être mis en place dans des services proposés par RemindMe. La société mère a prévu un budget pour développer le potentiel de cette nouvelle entreprise du groupe. |
+| Type de société | Start-up | Filiale d'entreprise internationale |
 | Localisation géographique | 1 site en région Parisienne | 2 sites en région Parisienne |
 | Le SI | Un budget a été prévu pour créer un vrai service SI. | Un budget a été prévu pour créer un vrai service SI.|
 | Les utilisateurs internes | La société est actuellement composée de 91 personnes. L'ensemble du personnel touche au SI. | L'entreprise BillU emploie 55 personnes. L'ensemble du personnel touche au SI. |
 | Les utilisateurs externes | Environ 10 prestataires de services | Moins de 5 prestataires de services |
 | Nomadisme | Entre 30 et 50%. | Aucun utilisateur nomade.|
-| Téletravail | Pas d'accès au SI | Pas d'accès au SI |
-| Matériel utilisateur | 100 % de PC portables de marques et références très héterogènes. | 80% de PC fixes et le reste en PC portables. L'ensemble du matériel est en leasing. Marques et références homogènes. |
+| Télétravail | Pas d'accès au SI | Pas d'accès au SI |
+| Matériel utilisateur | 100 % de PC portables de marques et références très hétérogènes. | 80% de PC fixes et le reste en PC portables. L'ensemble du matériel est en leasing. Marques et références homogènes. |
 | Matériel d'administration | Aucun serveur ni matériel réseau | Il y a un serveur de stockage de fichiers (Paris 7), 2 routeurs wifi (un sur chaque site). Pas d'autre matériel réseau |
-| Le réseau | Box internet classique fournie par un FAI. 50% de couverture wifi des locaux. Les utilisateurs hors-couverture se servent de leur télephone portable personnel comme hot-spot wifi. | Chaque site possède un réseau fibré. 80% Connexion filaire pour les matériels, le reste avec un routeur wifi. |
+| Le réseau | Box internet classique fournie par un FAI. 50% de couverture wifi des locaux. Les utilisateurs hors-couverture se servent de leur téléphone portable personnel comme hotspot wifi. | Chaque site possède un réseau fibré. 80% Connexion filaire pour les matériels, le reste avec un routeur wifi. |
 | Sécurité réseau | Aucun matériel, aucune redondance | Aucun matériel, aucune redondance |
-| Sécurité système | Tous les PC sont en workgroup. Connexion sans mot de passe. | Tous les PC sont en workgroup. Connexion avec mot de passe faible. Pas de gestion d'ACL sur le serveur de fichiers |
-| Messagerie | La messagerie est hebergée chez un prestataire (insatisfaction utilisateurs). | La messagerie est hebergée en web |
+| Sécurité système | Tous les PC sont en workgroups. Connexion sans mot de passe. | Tous les PC sont en workgroups. Connexion avec mot de passe faible. Pas de gestion d'ACL sur le serveur de fichiers |
+| Messagerie | La messagerie est hébergée chez un prestataire (insatisfaction utilisateurs). | La messagerie est hébergée en web |
 | Stockage des données | Stockage local sur les machines, et sur des drives internet. | Stockage local sur les machines et sur un serveur de fichiers.|
 | Statut des données utilisateur en cas de départ | Pas de gestion | Pas de gestion |
 | Statut des données utilisateurs en cas de défaillance | Perte des données | Si en local : perte des données, si sur le serveur de fichiers : pas de gestion (contractuel) |
-| Sauvegarde | Il n'y a aucune sauvegarde de données | Le serveur de fichiers a 2 disque dur en mirroir.|
-| Téléphonie | Environ 40% des utilisateurs ont de la téléphonie fixe (taux de satisfaction bon). Tous les utilisateurs utilise leurs mobiles personnels. | 100% des utilisateurs ont de la téléphonie fixe. Tous les utilisateurs utilise leurs mobiles personnels. Les utilisateurs souhaitent avoir plus de mobilité avec des téléphones portables professionnels. |
-| Maintenance | En cas de problèmes, les utilisateurs appellent un prestataire qui résoud le problème en moins de 48h (contractuel) | Il n'y a pas de gestion de maintenance pour les matériels utilisateurs. Seul le serveur de fichiers a une maintenance sous 48h auprès d'un prestataire. |
+| Sauvegarde | Il n'y a aucune sauvegarde de données | Le serveur de fichiers a 2 disque dur en miroir.|
+| Téléphonie | Environ 40% des utilisateurs ont de la téléphonie fixe (taux de satisfaction bon). Tous les utilisateurs utilisent leurs mobiles personnels. | 100% des utilisateurs ont de la téléphonie fixe. Tous les utilisateurs utilisent leurs mobiles personnels. Les utilisateurs souhaitent avoir plus de mobilité avec des téléphones portables professionnels. |
+| Maintenance | En cas de problèmes, les utilisateurs appellent un prestataire qui résout le problème en moins de 48h (contractuel) | Il n'y a pas de gestion de maintenance pour les matériels utilisateurs. Seul le serveur de fichiers a une maintenance sous 48h auprès d'un prestataire. |
 | Site web | Ce service est dévolu à un prestataire | Il n'y a pas de site web.|
 | Edition | 2 copieurs sont en location | Des imprimantes individuelles équipent environ 50% des postes de travail|
 
 ## **3. Les évolutions souhaitées**
 
-Pour les 2 sociétes, voici les besoins exprimés par les dirigeants :
+Pour les 2 sociétés, voici les besoins exprimés par les dirigeants :
 
-* Mettre en place du téletravail
+* Mettre en place du télétravail
 * Avoir une gestion centralisée et sécurisée des données de l'entreprise
-* Que les utilisateurs aient une connexion sécurisée en interne et depuis l'exterieur (durcissement mot de passe, VPN, ...)
+* Que les utilisateurs aient une connexion sécurisée en interne et depuis l'extérieur (durcissement mot de passe, VPN, ...)
 * Avoir une gestion complète sur les données utilisateurs (en cas de départ, en cas de problèmes, ...)
 * Avoir une gestion de parc informatique (inventaire, tickets d'incidents, ...)
-* Avoir une sécurisation globale du système informatique (redondance, supervision, prevention des attaques, ...)
+* Avoir une sécurisation globale du système informatique (redondance, supervision, prévention des attaques, ...)
 
 ## **4. Objectifs du projet**
 
 ***Principal :*** Avoir une équipe qui est en mesure, parce qu'elle s'y est préparée, de monter une infrastructure testée le plus rapidement possible.
 
-* Avoir des procedures documentées et testées
+* Avoir des procédures documentées et testées
 * Avoir des scripts pour automatiser un déploiement et une configuration.
 
 ***Secondaire :*** Mettre en place une infrastructure réseaux virtualisée.
@@ -76,9 +76,9 @@ Pour les 2 sociétes, voici les besoins exprimés par les dirigeants :
 
 ***Le rendu :***
 
-* Des procedures documentées et testées
+* Des procédures documentées et testées
 * Des scripts d'automatisation
-* Des schéma d'infrastructure
+* Des schémas d'infrastructure
 * Un plan d'adressage complet
 * Une virtualisation complète de l'infrastructure réseau
 
@@ -117,8 +117,8 @@ Site 1 - Paris 7 : 42 personnes
 * Comptabilité (3 personnes)
 * Direction commerciale (5 personnes)
 * Marketing (3 personnes)
-* Internationnal (2 personnes)
-* Developpement logiciel (12 personnes)
+* International (2 personnes)
+* Développement logiciel (12 personnes)
 * Communication (6 personnes)
 * Juridique (2 personnes)
 * RH (2 personne)
@@ -127,7 +127,7 @@ Site 1 - Paris 7 : 42 personnes
 Site 2 - Massy : 14 personnes
 
 * Comptabilité (1 personne)
-* Developpement logiciel (9 personnes)
+* Développement logiciel (9 personnes)
 * Logistique (1 personne)
 * RH (3 personnes)
 
