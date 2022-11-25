@@ -64,7 +64,7 @@ Pour les 2 sociétes, voici les besoins exprimés par les dirigeants :
 
 * Fonctionnement en mode projet
   * Sprint sur 4 semaines
-  * 1 scrum master et 1 product owner différent par sprint (chacun doit assumer ce rôle pendant le projet)
+  * 1 scrum master et 1 product owner différent par sprint
 
 * Méthodologie
   * Analyse du contexte professionnel
@@ -76,10 +76,11 @@ Pour les 2 sociétes, voici les besoins exprimés par les dirigeants :
 
 ***Le rendu :***
 
+* Des procedures documentées et testées
+* Des scripts d'automatisation
+* Des schéma d'infrastructure
+* Un plan d'adressage complet
 * Une virtualisation complète de l'infrastructure réseau
-* Un schéma de cette infrastructure
-* Le plan d'adressage complet
-* La documentation associée
 
 ## **6. Annexes**
 
